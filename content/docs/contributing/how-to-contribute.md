@@ -9,29 +9,11 @@ sort_by = "weight"
 template = "docs/page.html"
 
 [extra]
-lead = "Contribute to AdiDoks, improve documentation, or submit to showcase."
+lead = "Contribute to FWiC."
 toc = true
 top = false
 +++
 
-👉 Make sure to read the [Code of Conduct](../code-of-conduct/).
+We'd love your help!
 
-## Contribute to Doks
-
-👉 The AdiDoks code lives in the [`adidoks` repository](https://github.com/aaranxu/adidoks)
-
-- Follow the [GitHub flow](https://guides.github.com/introduction/flow/).
-- Follow the [Conventional Commits Specification](https://www.conventionalcommits.org/en/v1.0.0/)
-
-### Create an issue
-
-- [Bug report](https://github.com/aaranxu/adidoks/issues/new?template=bug-report---.md)
-- [Feature request](https://github.com/aaranxu/adidoks/issues/new?template=feature-request---.md)
-
-## Improve documentation
-
-👉 The documentation lives in [`./content/docs/`](https://github.com/aaranxu/adidoks/tree/master/content/docs)
-of the [`adidoks` repository](https://github.com/h-enk/getdoks.org).
-
-- Follow the [GitHub flow](https://guides.github.com/introduction/flow/).
-- Follow the [Conventional Commits Specification](https://www.conventionalcommits.org/en/v1.0.0/)
+Please create pull requests on [the Github repo](https://github.com/longfangsong/first-week-in-chalmers).

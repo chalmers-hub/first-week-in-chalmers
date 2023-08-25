@@ -1,7 +1,7 @@
 # The URL the site will be built for
-base_url = "https://adidoks.netlify.com"
-title = "AdiDoks"
-description = "AdiDoks is a Zola theme helping you build modern documentation websites, which is a port of the Hugo theme Doks for Zola."
+base_url = "https://longfangsong.github.io/first-week-in-chalmers"
+title = "FWiC"
+description = "An unofficial guide for international students who comes to Chalmers and Göteborg to pass the first week (and more)."
 
 # The default language; used in feeds and search index
 # Note: the search index doesn't support Chinese/Japanese/Korean Languages
@@ -46,11 +46,12 @@ highlight_code = true
 
 [extra]
 # Put all your custom variables here
-author = "Aaran Xu"
-github = "https://github.com/aaranxu"
-twitter = "https://twitter.com/aaranxu"
-email = "aaranxu@outlook.com"
+author = "longfangsong"
+github = "https://github.com/longfangsong"
+twitter = "https://twitter.com/longfangsong"
+email = "longfangsong@icloud.com"
 ganalytics = ""  # Google Analytics code
+homepage = "https://longfangsong.github.io/en/"
 
 # If running on netlify.app site, set to true
 is_netlify = true
@@ -72,7 +73,7 @@ timezone = "UTC"
 
 # Edit page on reposity or not
 edit_page = false
-docs_repo = "https://github.com/aaranxu/adidoks"
+docs_repo = "https://github.com/longfangsong/first-week-in-chalmers"
 repo_branch = "main"
 
 ## Math settings
@@ -86,19 +87,19 @@ library = "katex"  # options: "katex", "mathjax". default is "katex".
 enable = true
 # this image will be used as fallback if a page has no image of its own
 image = "doks.png"
-twitter_site = "aaranxu"
-twitter_creator = "aaranxu"
-facebook_author = "ichunyun"
-facebook_publisher = "ichunyun"
+twitter_site = ""
+twitter_creator = "longfangsong"
+facebook_author = "longfangsong"
+facebook_publisher = "longfangsong"
 og_locale = "en_US"
 
 ## JSON-LD
 [extra.schema]
 type = "Organization"
 logo = "logo-doks.png"
-twitter = "https://twitter.com/aaranxu"
+twitter = "https://twitter.com/longfangsong"
 linked_in = ""
-github = "https://github.com/aaranxu"
+github = "https://github.com/longfangsong"
 section = "blog" # see config.extra.main~url
 ## Sitelinks Search Box
 site_links_search_box = false
@@ -113,7 +114,7 @@ weight = 10
 [[extra.menu.social]]
 name = "GitHub"
 pre = '<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-github"><path d="M9 19c-5 1.5-5-2.5-7-3m14 6v-3.87a3.37 3.37 0 0 0-.94-2.61c3.14-.35 6.44-1.54 6.44-7A5.44 5.44 0 0 0 20 4.77 5.07 5.07 0 0 0 19.91 1S18.73.65 16 2.48a13.38 13.38 0 0 0-7 0C6.27.65 5.09 1 5.09 1A5.07 5.07 0 0 0 5 4.77a5.44 5.44 0 0 0-1.5 3.78c0 5.42 3.3 6.61 6.44 7A3.37 3.37 0 0 0 9 18.13V22"></path></svg>'
-url = "https://github.com/aaranxu/adidoks"
+url = "https://github.com/longfangsong/first-week-in-chalmers"
 post = "v0.1.0"
 weight = 20
 
