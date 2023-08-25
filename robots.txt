@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://adidoks.netlify.com/sitemap.xml
+Sitemap: https://longfangsong.github.io/first-week-in-chalmers/sitemap.xml

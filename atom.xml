@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
     <title>FWiC</title>
     <subtitle>An unofficial guide for international students who comes to Chalmers and Göteborg to pass the first week (and more).</subtitle>
-    <link href="https://adidoks.netlify.com/atom.xml" rel="self" type="application/atom+xml"/>
-    <link href="https://adidoks.netlify.com"/>
+    <link href="https://longfangsong.github.io/first-week-in-chalmers/atom.xml" rel="self" type="application/atom+xml"/>
+    <link href="https://longfangsong.github.io/first-week-in-chalmers"/>
     <generator uri="https://www.getzola.org/">Zola</generator>
     <updated>2023-08-25T14:50:20.235+00:00</updated>
-    <id>https://adidoks.netlify.com/atom.xml</id>
+    <id>https://longfangsong.github.io/first-week-in-chalmers/atom.xml</id>
     <entry xml:lang="en">
         <title>Fangsong Long</title>
         <published>2023-08-25T14:50:20.235+00:00</published>
@@ -14,8 +14,8 @@
         <author>
           <name>Unknown</name>
         </author>
-        <link rel="alternate" href="https://adidoks.netlify.com/authors/fangsong-long/" type="text/html"/>
-        <id>https://adidoks.netlify.com/authors/fangsong-long/</id>
+        <link rel="alternate" href="https://longfangsong.github.io/first-week-in-chalmers/authors/fangsong-long/" type="text/html"/>
+        <id>https://longfangsong.github.io/first-week-in-chalmers/authors/fangsong-long/</id>
         
         <content type="html">&lt;p&gt;Creator of &lt;strong&gt;FWiC&lt;&#x2F;strong&gt;.&lt;&#x2F;p&gt;
 &lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;longfangsong&quot;&gt;@longfangsong&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
@@ -29,21 +29,21 @@
         <author>
           <name>Unknown</name>
         </author>
-        <link rel="alternate" href="https://adidoks.netlify.com/docs/transport/shared-bicycle/" type="text/html"/>
-        <id>https://adidoks.netlify.com/docs/transport/shared-bicycle/</id>
+        <link rel="alternate" href="https://longfangsong.github.io/first-week-in-chalmers/docs/transport/shared-bicycle/" type="text/html"/>
+        <id>https://longfangsong.github.io/first-week-in-chalmers/docs/transport/shared-bicycle/</id>
         
         <content type="html">&lt;p&gt;Note: In Sweden, wearing a helmet when riding a bicycle is only mandatory up to the age of 15. However, it is always the safest choice to wear a helmet even if it’s not mandatory.&lt;&#x2F;p&gt;
 &lt;p&gt;You can rent a shared bicycle by using &lt;a href=&quot;https:&#x2F;&#x2F;styrochstall.se&#x2F;sv&#x2F;&quot;&gt;Styr &amp;amp; Ställ&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
-&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;adidoks.netlify.com&#x2F;docs&#x2F;transport&#x2F;shared-bicycle&#x2F;IMG_140FF85DD9D6-1.jpeg&quot; alt=&quot;Alt text&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;longfangsong.github.io&#x2F;first-week-in-chalmers&#x2F;docs&#x2F;transport&#x2F;shared-bicycle&#x2F;IMG_140FF85DD9D6-1.jpeg&quot; alt=&quot;Alt text&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
 &lt;p&gt;Register needs a Sweden phone number.&lt;&#x2F;p&gt;
 &lt;p&gt;After registration, you can use the app to rent a bicycle.&lt;&#x2F;p&gt;
 &lt;h2 id=&quot;student-discount&quot;&gt;Student discount&lt;&#x2F;h2&gt;
 &lt;p&gt;If you have registered on mecenant, you can get a student discount for a year&#x27;s rent.&lt;&#x2F;p&gt;
 &lt;p&gt;Just search for &amp;quot;Styr &amp;amp; Ställ&amp;quot; on mecenant. You will find the discount code.&lt;&#x2F;p&gt;
-&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;adidoks.netlify.com&#x2F;docs&#x2F;transport&#x2F;shared-bicycle&#x2F;IMG_A3FA63F59171-1.jpeg&quot; alt=&quot;Alt text&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;longfangsong.github.io&#x2F;first-week-in-chalmers&#x2F;docs&#x2F;transport&#x2F;shared-bicycle&#x2F;IMG_A3FA63F59171-1.jpeg&quot; alt=&quot;Alt text&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
 &lt;p&gt;Copy the code and paste it into the app.&lt;&#x2F;p&gt;
-&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;adidoks.netlify.com&#x2F;docs&#x2F;transport&#x2F;shared-bicycle&#x2F;IMG_5A3BEEF66F01-1.jpeg&quot; alt=&quot;Alt text&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
-&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;adidoks.netlify.com&#x2F;docs&#x2F;transport&#x2F;shared-bicycle&#x2F;IMG_74606B0B506B-1.jpeg&quot; alt=&quot;Alt text&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;longfangsong.github.io&#x2F;first-week-in-chalmers&#x2F;docs&#x2F;transport&#x2F;shared-bicycle&#x2F;IMG_5A3BEEF66F01-1.jpeg&quot; alt=&quot;Alt text&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;longfangsong.github.io&#x2F;first-week-in-chalmers&#x2F;docs&#x2F;transport&#x2F;shared-bicycle&#x2F;IMG_74606B0B506B-1.jpeg&quot; alt=&quot;Alt text&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
 &lt;p&gt;Then you can rent a bicycle for a year, with 225kr paid.&lt;&#x2F;p&gt;
 </content>
         
@@ -55,8 +55,8 @@
         <author>
           <name>Unknown</name>
         </author>
-        <link rel="alternate" href="https://adidoks.netlify.com/docs/id/personal-number/" type="text/html"/>
-        <id>https://adidoks.netlify.com/docs/id/personal-number/</id>
+        <link rel="alternate" href="https://longfangsong.github.io/first-week-in-chalmers/docs/id/personal-number/" type="text/html"/>
+        <id>https://longfangsong.github.io/first-week-in-chalmers/docs/id/personal-number/</id>
         
         <content type="html">&lt;p&gt;If you are going to stay in Sweden for more than one year, you should apply for a personal identity number. It is necessary for you to do a lot of things, for example opening a bank account in Sweden.&lt;&#x2F;p&gt;
 &lt;p&gt;To apply for a personal identity number, you need to visit Swedish Tax Agency in person.&lt;&#x2F;p&gt;
@@ -80,16 +80,16 @@
         <author>
           <name>Unknown</name>
         </author>
-        <link rel="alternate" href="https://adidoks.netlify.com/docs/transport/ticket/" type="text/html"/>
-        <id>https://adidoks.netlify.com/docs/transport/ticket/</id>
+        <link rel="alternate" href="https://longfangsong.github.io/first-week-in-chalmers/docs/transport/ticket/" type="text/html"/>
+        <id>https://longfangsong.github.io/first-week-in-chalmers/docs/transport/ticket/</id>
         
         <content type="html">&lt;p&gt;You&#x27;ll need an app named &amp;quot;Västtrafik To Go&amp;quot; to buy your ticket.&lt;&#x2F;p&gt;
-&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;adidoks.netlify.com&#x2F;docs&#x2F;transport&#x2F;ticket&#x2F;togo.jpeg&quot; alt=&quot;togo&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;longfangsong.github.io&#x2F;first-week-in-chalmers&#x2F;docs&#x2F;transport&#x2F;ticket&#x2F;togo.jpeg&quot; alt=&quot;togo&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
 &lt;p&gt;You can buy tickets on the second page.&lt;&#x2F;p&gt;
-&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;adidoks.netlify.com&#x2F;docs&#x2F;transport&#x2F;ticket&#x2F;tickets.jpeg&quot; alt=&quot;Alt text&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;longfangsong.github.io&#x2F;first-week-in-chalmers&#x2F;docs&#x2F;transport&#x2F;ticket&#x2F;tickets.jpeg&quot; alt=&quot;Alt text&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
 &lt;p&gt;There is one time ticket, one day ticket and one month ticket.&lt;&#x2F;p&gt;
 &lt;p&gt;For the one month ticket, if you have done with verifing your student status, you can buy student ticket.&lt;&#x2F;p&gt;
-&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;adidoks.netlify.com&#x2F;docs&#x2F;transport&#x2F;ticket&#x2F;buy.jpeg&quot; alt=&quot;Alt text&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;longfangsong.github.io&#x2F;first-week-in-chalmers&#x2F;docs&#x2F;transport&#x2F;ticket&#x2F;buy.jpeg&quot; alt=&quot;Alt text&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
 &lt;p&gt;Hint: You&#x27;ll need to buy a ticket for whole day, &amp;quot;Fritid&amp;quot; ticket is not for students.&lt;&#x2F;p&gt;
 &lt;h2 id=&quot;zones&quot;&gt;Zones&lt;&#x2F;h2&gt;
 &lt;p&gt;If you just want to take the bus around the campus, around the city center, go to IKEA, to the supermarkets, etc, you&#x27;ll only need to buy a ticket for zone A.&lt;&#x2F;p&gt;
@@ -105,24 +105,24 @@
         <author>
           <name>Unknown</name>
         </author>
-        <link rel="alternate" href="https://adidoks.netlify.com/docs/communication/circ-sim/" type="text/html"/>
-        <id>https://adidoks.netlify.com/docs/communication/circ-sim/</id>
+        <link rel="alternate" href="https://longfangsong.github.io/first-week-in-chalmers/docs/communication/circ-sim/" type="text/html"/>
+        <id>https://longfangsong.github.io/first-week-in-chalmers/docs/communication/circ-sim/</id>
         
         <content type="html">&lt;h2 id=&quot;sim-card&quot;&gt;SIM Card&lt;&#x2F;h2&gt;
 &lt;p&gt;CIRC provides us with a SIM card.&lt;&#x2F;p&gt;
 &lt;h3 id=&quot;how-to-activate-the-sim-card&quot;&gt;How to activate the SIM card&lt;&#x2F;h3&gt;
 &lt;p&gt;Visit &lt;a href=&quot;https:&#x2F;&#x2F;www.lycamobile.se&#x2F;en&#x2F;&quot;&gt;lycamobile website&lt;&#x2F;a&gt;, click &amp;quot;SIM Registration&amp;quot;.&lt;&#x2F;p&gt;
-&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;adidoks.netlify.com&#x2F;docs&#x2F;communication&#x2F;circ-sim&#x2F;Namnlo%CC%88st.png&quot; alt=&quot;Alt text&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;longfangsong.github.io&#x2F;first-week-in-chalmers&#x2F;docs&#x2F;communication&#x2F;circ-sim&#x2F;Namnlo%CC%88st.png&quot; alt=&quot;Alt text&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
 &lt;p&gt;Click &amp;quot;Register&amp;quot;.&lt;&#x2F;p&gt;
-&lt;p&gt;![Alt text](&lt;img src=&quot;https:&#x2F;&#x2F;adidoks.netlify.com&#x2F;docs&#x2F;communication&#x2F;circ-sim&#x2F;Sk%C3%A4rmavbild%202023-08-25%20kl.%2014.22.16.png&quot; alt=&quot;Alt text&quot; &#x2F;&gt;).&lt;&#x2F;p&gt;
+&lt;p&gt;![Alt text](&lt;img src=&quot;https:&#x2F;&#x2F;longfangsong.github.io&#x2F;first-week-in-chalmers&#x2F;docs&#x2F;communication&#x2F;circ-sim&#x2F;Sk%C3%A4rmavbild%202023-08-25%20kl.%2014.22.16.png&quot; alt=&quot;Alt text&quot; &#x2F;&gt;).&lt;&#x2F;p&gt;
 &lt;p&gt;Click &amp;quot;Photo ID&amp;quot;.&lt;&#x2F;p&gt;
-&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;adidoks.netlify.com&#x2F;docs&#x2F;communication&#x2F;circ-sim&#x2F;Ska%CC%88rmavbild%202023-08-25%20kl.%2014.22.02.png&quot; alt=&quot;Alt text&quot; &#x2F;&gt;.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;longfangsong.github.io&#x2F;first-week-in-chalmers&#x2F;docs&#x2F;communication&#x2F;circ-sim&#x2F;Ska%CC%88rmavbild%202023-08-25%20kl.%2014.22.02.png&quot; alt=&quot;Alt text&quot; &#x2F;&gt;.&lt;&#x2F;p&gt;
 &lt;p&gt;Input all information they asked for, and submit.&lt;&#x2F;p&gt;
 &lt;p&gt;Then your SIM card should be activated. You can login to the lyca mobile app for checking.&lt;&#x2F;p&gt;
-&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;adidoks.netlify.com&#x2F;docs&#x2F;communication&#x2F;circ-sim&#x2F;IMG_ECE88659D7FF-1.jpeg&quot; alt=&quot;Alt text&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;longfangsong.github.io&#x2F;first-week-in-chalmers&#x2F;docs&#x2F;communication&#x2F;circ-sim&#x2F;IMG_ECE88659D7FF-1.jpeg&quot; alt=&quot;Alt text&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
 &lt;p&gt;If you cannot receive the OTP code, you may try to top up by yourself:&lt;&#x2F;p&gt;
 &lt;p&gt;On &lt;a href=&quot;https:&#x2F;&#x2F;www.lycamobile.se&#x2F;en&#x2F;&quot;&gt;lycamobile website&lt;&#x2F;a&gt;, click &amp;quot;Quick top up&amp;quot;.&lt;&#x2F;p&gt;
-&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;adidoks.netlify.com&#x2F;docs&#x2F;communication&#x2F;circ-sim&#x2F;Ska%CC%88rmavbild%202023-08-25%20kl.%2014.30.10.png&quot; alt=&quot;Alt text&quot; &#x2F;&gt;.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;longfangsong.github.io&#x2F;first-week-in-chalmers&#x2F;docs&#x2F;communication&#x2F;circ-sim&#x2F;Ska%CC%88rmavbild%202023-08-25%20kl.%2014.30.10.png&quot; alt=&quot;Alt text&quot; &#x2F;&gt;.&lt;&#x2F;p&gt;
 &lt;p&gt;Fill in your phone number, and select the top-up amount you need. (50kr is enough if you don&#x27;t want to use this card forever).&lt;&#x2F;p&gt;
 &lt;p&gt;You don&#x27;t need to add a bundle, CIRC has brought a prepaid one for you.&lt;&#x2F;p&gt;
 </content>
@@ -135,8 +135,8 @@
         <author>
           <name>Unknown</name>
         </author>
-        <link rel="alternate" href="https://adidoks.netlify.com/docs/help/faq/" type="text/html"/>
-        <id>https://adidoks.netlify.com/docs/help/faq/</id>
+        <link rel="alternate" href="https://longfangsong.github.io/first-week-in-chalmers/docs/help/faq/" type="text/html"/>
+        <id>https://longfangsong.github.io/first-week-in-chalmers/docs/help/faq/</id>
         
         <content type="html">&lt;h2 id=&quot;keyboard-shortcuts-for-search&quot;&gt;Keyboard shortcuts for search?&lt;&#x2F;h2&gt;
 &lt;ul&gt;
@@ -155,8 +155,8 @@
         <author>
           <name>Unknown</name>
         </author>
-        <link rel="alternate" href="https://adidoks.netlify.com/docs/contributing/how-to-contribute/" type="text/html"/>
-        <id>https://adidoks.netlify.com/docs/contributing/how-to-contribute/</id>
+        <link rel="alternate" href="https://longfangsong.github.io/first-week-in-chalmers/docs/contributing/how-to-contribute/" type="text/html"/>
+        <id>https://longfangsong.github.io/first-week-in-chalmers/docs/contributing/how-to-contribute/</id>
         
         <content type="html">&lt;p&gt;We&#x27;d love your help!&lt;&#x2F;p&gt;
 &lt;p&gt;Please create pull requests on &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;longfangsong&#x2F;first-week-in-chalmers&quot;&gt;the Github repo&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
@@ -170,8 +170,8 @@
         <author>
           <name>Unknown</name>
         </author>
-        <link rel="alternate" href="https://adidoks.netlify.com/blog/hello-world/" type="text/html"/>
-        <id>https://adidoks.netlify.com/blog/hello-world/</id>
+        <link rel="alternate" href="https://longfangsong.github.io/first-week-in-chalmers/blog/hello-world/" type="text/html"/>
+        <id>https://longfangsong.github.io/first-week-in-chalmers/blog/hello-world/</id>
         
         <content type="html">&lt;pre data-lang=&quot;rust&quot; style=&quot;background-color:#2b303b;color:#c0c5ce;&quot; class=&quot;language-rust &quot;&gt;&lt;code class=&quot;language-rust&quot; data-lang=&quot;rust&quot;&gt;&lt;span style=&quot;color:#65737e;&quot;&gt;&#x2F;&#x2F; This is a comment, and is ignored by the compiler
 &lt;&#x2F;span&gt;&lt;span&gt;
@@ -201,8 +201,8 @@
         <author>
           <name>Unknown</name>
         </author>
-        <link rel="alternate" href="https://adidoks.netlify.com/docs/step-by-step/introduction/" type="text/html"/>
-        <id>https://adidoks.netlify.com/docs/step-by-step/introduction/</id>
+        <link rel="alternate" href="https://longfangsong.github.io/first-week-in-chalmers/docs/step-by-step/introduction/" type="text/html"/>
+        <id>https://longfangsong.github.io/first-week-in-chalmers/docs/step-by-step/introduction/</id>
         
         <content type="html">&lt;pre class=&quot;mermaid&quot;&gt;
     graph LR
@@ -240,8 +240,8 @@
         <author>
           <name>Unknown</name>
         </author>
-        <link rel="alternate" href="https://adidoks.netlify.com/blog/markdown-syntax/" type="text/html"/>
-        <id>https://adidoks.netlify.com/blog/markdown-syntax/</id>
+        <link rel="alternate" href="https://longfangsong.github.io/first-week-in-chalmers/blog/markdown-syntax/" type="text/html"/>
+        <id>https://longfangsong.github.io/first-week-in-chalmers/blog/markdown-syntax/</id>
         
         <content type="html">&lt;h2 id=&quot;headings&quot;&gt;Headings&lt;&#x2F;h2&gt;
 &lt;p&gt;The following HTML &lt;code&gt;&amp;lt;h1&amp;gt;&lt;&#x2F;code&gt;—&lt;code&gt;&amp;lt;h6&amp;gt;&lt;&#x2F;code&gt; elements represent six levels of section
@@ -375,8 +375,8 @@ during Gopherfest, November 18, 2015.&lt;&#x2F;p&gt;
         <author>
           <name>Unknown</name>
         </author>
-        <link rel="alternate" href="https://adidoks.netlify.com/blog/placeholder-text/" type="text/html"/>
-        <id>https://adidoks.netlify.com/blog/placeholder-text/</id>
+        <link rel="alternate" href="https://longfangsong.github.io/first-week-in-chalmers/blog/placeholder-text/" type="text/html"/>
+        <id>https://longfangsong.github.io/first-week-in-chalmers/blog/placeholder-text/</id>
         
         <content type="html">&lt;p&gt;Lorem est tota propiore conpellat pectoribus de pectora summo. &lt;!--more--&gt;Redit
 teque digerit hominumque toris verebor lumina non cervice subde tollit usus
@@ -430,8 +430,8 @@ Suspenderat ego fuit tendit: luna, ante urbem Propoetides &lt;strong&gt;parte&lt
         <author>
           <name>Unknown</name>
         </author>
-        <link rel="alternate" href="https://adidoks.netlify.com/blog/math-typesetting/" type="text/html"/>
-        <id>https://adidoks.netlify.com/blog/math-typesetting/</id>
+        <link rel="alternate" href="https://longfangsong.github.io/first-week-in-chalmers/blog/math-typesetting/" type="text/html"/>
+        <id>https://longfangsong.github.io/first-week-in-chalmers/blog/math-typesetting/</id>
         
         <content type="html">&lt;p&gt;In this example we will be using &lt;a href=&quot;https:&#x2F;&#x2F;katex.org&#x2F;&quot;&gt;KaTeX&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
 &lt;ul&gt;
@@ -471,8 +471,8 @@ $$&lt;&#x2F;p&gt;
         <author>
           <name>Unknown</name>
         </author>
-        <link rel="alternate" href="https://adidoks.netlify.com/blog/say-hello-to-zola-doks/" type="text/html"/>
-        <id>https://adidoks.netlify.com/blog/say-hello-to-zola-doks/</id>
+        <link rel="alternate" href="https://longfangsong.github.io/first-week-in-chalmers/blog/say-hello-to-zola-doks/" type="text/html"/>
+        <id>https://longfangsong.github.io/first-week-in-chalmers/blog/say-hello-to-zola-doks/</id>
         
         <content type="html"></content>
         
