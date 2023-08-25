@@ -206,7 +206,7 @@
         
         <content type="html">&lt;pre class=&quot;mermaid&quot;&gt;
     graph LR
-        travel[&lt;a href=&quot;&#x2F;docs&#x2F;transport&#x2F;ticket&quot;&gt;Public transport tickets&lt;&#x2F;a&gt;] --&gt; accommodation[Get accommodation keys]
+        travel[&lt;a href=&quot;&#x2F;first-week-in-chalmers&#x2F;docs&#x2F;transport&#x2F;ticket&quot;&gt;Public transport tickets&lt;&#x2F;a&gt;] --&gt; accommodation[Get accommodation keys]
         accommodation --&gt; furniture[Buy Furnitures]
         accommodation --&gt; internet[Internet Connection]
         accommodation --&gt; cook[Use the kitchen]
@@ -214,15 +214,15 @@
         accommodation --&gt; rubbish[Throw rubbish]
         travel --&gt; traffic[Travel hints]
         travel -.-&gt; personal
-        personal[&lt;a href=&quot;&#x2F;docs&#x2F;id&#x2F;personal-number&quot;&gt;Personal Number&lt;&#x2F;a&gt;] --&gt; bank[Open Bank Account]
+        personal[&lt;a href=&quot;&#x2F;first-week-in-chalmers&#x2F;docs&#x2F;id&#x2F;personal-number&quot;&gt;Personal Number&lt;&#x2F;a&gt;] --&gt; bank[Open Bank Account]
         travel -.-&gt; Shopping
         DigitalStudentCard[Digital Student Card &amp; Mercant]
         DigitalStudentCard --&gt; PhysicalStudentCard[Physical Student Card]
         DigitalStudentCard -.-&gt; travel
-        phone[&lt;a href=&quot;&#x2F;docs&#x2F;phone&#x2F;circ-sim&#x2F;&quot;&gt;Telephone number&lt;&#x2F;a&gt;]
+        phone[&lt;a href=&quot;&#x2F;first-week-in-chalmers&#x2F;docs&#x2F;phone&#x2F;circ-sim&#x2F;&quot;&gt;Telephone number&lt;&#x2F;a&gt;]
         Refresh[Refresh residence permit]
         personal --&gt; SFI[Swedish course For Immigrants]
-        DigitalStudentCard -.-&gt; bicycle[&lt;a href=&quot;&#x2F;docs&#x2F;transport&#x2F;shared-bicycle&#x2F;&quot;&gt;Shared bicycle&lt;&#x2F;a&gt;]
+        DigitalStudentCard -.-&gt; bicycle[&lt;a href=&quot;&#x2F;first-week-in-chalmers&#x2F;docs&#x2F;transport&#x2F;shared-bicycle&#x2F;&quot;&gt;Shared bicycle&lt;&#x2F;a&gt;]
         course[Register for courses and exams]
         timeEdit[Check time of your classes]
 &lt;&#x2F;pre&gt;
