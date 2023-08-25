@@ -22,15 +22,15 @@ CIRC provides us with a SIM card.
 
 Visit [lycamobile website](https://www.lycamobile.se/en/), click "SIM Registration".
 
-![Alt text](Namnlo%CC%88st.png)
+![Alt text](Namnl%C3%B6st.png)
 
 Click "Register".
 
-![Alt text](![Alt text](<Skärmavbild 2023-08-25 kl. 14.22.16.png>)).
+![Alt text](<Skärmavbild 2023-08-25 kl. 14.22.16.png>).
 
 Click "Photo ID".
 
-![Alt text](<Skärmavbild 2023-08-25 kl. 14.22.02.png>).
+![Alt text](<Skärmavbild 2023-08-25 kl. 14.22.24.png>)
 
 Input all information they asked for, and submit.
 
@@ -42,8 +42,14 @@ If you cannot receive the OTP code, you may try to top up by yourself:
 
 On [lycamobile website](https://www.lycamobile.se/en/), click "Quick top up".
 
-![Alt text](<Skärmavbild 2023-08-25 kl. 14.30.10.png>).
+![Alt text](<Skärmavbild 2023-08-25 kl. 14.30.10.png>).
 
 Fill in your phone number, and select the top-up amount you need. (50kr is enough if you don't want to use this card forever).
 
 You don't need to add a bundle, CIRC has brought a prepaid one for you.
+
+### Network settings
+
+For some phones, you may find that you cannot use the mobile data.
+
+Please follow [these instructions](https://www.lycamobile.se/en/help/mobile-web-settings/) to set up the network.
