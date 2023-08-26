@@ -16,7 +16,7 @@ top = false
 
 <pre class="mermaid">
     graph LR
-        travel[<a href="/first-week-in-chalmers/docs/transport/ticket">Public transport tickets</a>] --> accommodation[Get accommodation keys]
+        travel[<a href="/docs/transport/ticket">Public transport tickets</a>] --> accommodation[Get accommodation keys]
         accommodation --> furniture[Buy Furnitures]
         accommodation --> internet[Internet Connection]
         accommodation --> cook[Use the kitchen]
@@ -24,15 +24,15 @@ top = false
         accommodation --> rubbish[Throw rubbish]
         travel --> traffic[Travel hints]
         travel -.-> personal
-        personal[<a href="/first-week-in-chalmers/docs/id/personal-number">Personal Number</a>] --> bank[Open Bank Account]
+        personal[<a href="/docs/id/personal-number">Personal Number</a>] --> bank[Open Bank Account]
         travel -.-> Shopping
         DigitalStudentCard[Digital Student Card & Mercant]
         DigitalStudentCard --> PhysicalStudentCard[Physical Student Card]
         DigitalStudentCard -.-> travel
-        phone[<a href="/first-week-in-chalmers/docs/phone/circ-sim/">Telephone number</a>]
+        phone[<a href="/docs/phone/circ-sim/">Telephone number</a>]
         Refresh[Refresh residence permit]
         personal --> SFI[Swedish course For Immigrants]
-        DigitalStudentCard -.-> bicycle[<a href="/first-week-in-chalmers/docs/transport/shared-bicycle/">Shared bicycle</a>]
+        DigitalStudentCard -.-> bicycle[<a href="/docs/transport/shared-bicycle/">Shared bicycle</a>]
         course[Register for courses and exams]
         timeEdit[Check time of your classes]
 </pre>

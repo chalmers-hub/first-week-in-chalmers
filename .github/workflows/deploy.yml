@@ -17,8 +17,8 @@ jobs:
       uses: JamesIves/github-pages-deploy-action@4.1.4
       with:
         token: ${{ secrets.DEPLOY_TOKEN }}
-        repository-name: 'longfangsong/first-week-in-chalmers'
-        branch: pages
+        repository-name: 'chalmers-hub/chalmers-hub.github.io'
+        branch: main
         folder: public
         clean: true
         

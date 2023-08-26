@@ -9,7 +9,7 @@ url = "/docs/step-by-step/introduction/"
 url_button = "Step by step guide"
 repo_version = "GitHub v0.1.0"
 repo_license = "CC0"
-repo_url = "https://github.com/longfangsong/first-week-in-chalmers"
+repo_url = "https://github.com/chalmers-hub/first-week-in-chalmers"
 
 # Menu items
 [[extra.menu.main]]
