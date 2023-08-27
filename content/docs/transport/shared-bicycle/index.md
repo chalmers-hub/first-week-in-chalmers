@@ -15,7 +15,7 @@ You can rent a shared bicycle by using [Styr & Ställ](https://styrochstall.se/s
 
 ![Alt text](IMG_140FF85DD9D6-1.jpeg)
 
-Register needs a Sweden phone number.
+Register needs a phone number in supported countries, if you cannot use your phone number, you may try using [the sim card CIRC provides](@/docs/phone/circ-sim/index.md).
 
 After registration, you can use the app to rent a bicycle.
 
