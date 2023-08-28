@@ -17,11 +17,12 @@ top = false
 <pre class="mermaid">
     graph LR
         travel[<a href="/docs/transport/ticket">Public transport tickets</a>] --> accommodation[Get accommodation keys]
-        accommodation --> furniture[Buy Furnitures]
+        accommodation --> furniture[Buy Furniture]
         accommodation --> internet[Internet Connection]
         accommodation --> cook[Use the kitchen]
         accommodation --> laundry[Use the laundry]
-        accommodation --> rubbish[Throw rubbish]
+        accommodation --> rubbish[<a href="/docs/living/rubbish">Throw rubbish</a>]
+        accommodation --> shopping[Online shopping delivery]
         travel --> traffic[Travel hints]
         travel -.-> personal
         personal[<a href="/docs/id/personal-number">Personal Number</a>] --> bank[Open Bank Account]
@@ -35,6 +36,7 @@ top = false
         DigitalStudentCard -.-> bicycle[<a href="/docs/transport/shared-bicycle/">Shared bicycle</a>]
         course[Register for courses and exams]
         timeEdit[Check time of your classes]
+        doors[enter the facilities]
 </pre>
 
 <script type="module">

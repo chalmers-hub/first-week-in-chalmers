@@ -26,9 +26,14 @@ taxonomies = [
 # content for `default_language`.
 build_search_index = true
 
-[languages.fi]
-title="AdiDoks"
+[languages.en.translations]
+language_name = "English"
 
+[languages.zh]
+title = "FWiC"
+
+[languages.zh.translations]
+language_name = "中文"
 
 [search]
 # Whether to include the title of the page/section in the index

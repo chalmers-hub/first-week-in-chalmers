@@ -78,6 +78,6 @@ Waste belongs to this category:
 - Diapers
 - Washcloths
 - Small amount of glass and porcelain (Please wrap them to prevent injuries)
-- Blushes
+- Brushes
 - Vacuum cleaner bags
 - Envelopes and sticky notes

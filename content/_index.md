@@ -4,7 +4,7 @@ title = "First week in Chalmers"
 
 # The homepage contents
 [extra]
-lead = 'An <b>unofficial</b> guide for international students who come to Chalmers and Göteborg to pass the first week (and more).'
+lead = "<h3>Don't panic</h3>An <b>unofficial</b> guide for international students who come to Chalmers and Göteborg to pass the first week (and more)."
 url = "/docs/step-by-step/introduction/"
 url_button = "Step by step guide"
 repo_version = "GitHub v0.1.0"
