@@ -18,6 +18,12 @@ section = "docs"
 url = "/docs/step-by-step/introduction/"
 weight = 10
 
+[[extra.menu.main]]
+name = "Groups"
+section = "groups"
+url = "/groups/whatsapp/"
+weight = 10
+
 [[extra.list]]
 title = "Note"
 content = "This site (currently) is not supported by Chalmers University of Technology or CIRC. It is based on personal experience, and may contains mistakes and errors. The author is not responsible for any consequences caused by the information provided on this site."
