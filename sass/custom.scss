@@ -42,3 +42,24 @@ img {
         }
     }
 }
+
+.dark {
+    .edge-thickness-normal {
+        fill: #dee2e6;
+    }
+
+    #language-switch {
+        button {
+            color: #dee2e6;
+
+            svg>path {
+                fill: #dee2e6;
+            }
+        }
+
+        #languages {
+            box-shadow: 0px 8px 16px 0px rgba(95, 95, 95, 0.2);
+            background-color: #152028;
+        }
+    }
+}
