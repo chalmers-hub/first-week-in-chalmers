@@ -43,11 +43,20 @@ Many community offers free food waste bags. Take several if you need.
 
 Waste belongs to this category:
 
-- Milk packets & Juice packets (Wash them before throwing away)
+- Milk packets & Juice packets (Wash them before throwing away, and remove the plastic cap)
 - Paper bags
 - Egg cartons
 - Wrapping paper
 - Cardboard
+
+## Plastic packaging
+
+![Alt text](<Namnlöst 2.png>)
+
+- Plastic bags & cases
+- Plastic bottles
+- Plastic foils
+- Plastic caps
 
 ## Bulky waste
 
