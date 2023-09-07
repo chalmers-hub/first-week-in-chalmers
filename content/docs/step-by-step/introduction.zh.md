@@ -29,7 +29,8 @@ top = false
         accommodation --> shopping[快递服务]
         travel --> traffic[出行提示]
         travel -.-> personal
-        personal[<a href="/zh/docs/id/personal-number">人口号</a>] --> bank[开银行账户]
+        personal[<a href="/zh/docs/id/personal-number">人口号</a>] --> id[<a href="/zh/docs/id/id-card">ID 卡</a>]
+        id --> bank[开银行账户]
         travel -.-> Shopping
         DigitalStudentCard[电子学生卡 & Mercant]
         DigitalStudentCard --> PhysicalStudentCard[实体学生卡]

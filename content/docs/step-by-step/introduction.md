@@ -25,7 +25,8 @@ top = false
         accommodation --> shopping[Online shopping delivery]
         travel --> traffic[Travel hints]
         travel -.-> personal
-        personal[<a href="/docs/id/personal-number">Personal Number</a>] --> bank[Open Bank Account]
+        personal[<a href="/docs/id/personal-number">Personal Number</a>] --> id[<a href="/docs/id/id-card">ID Card</a>]
+        id --> bank[Open Bank Account]
         travel -.-> Shopping
         DigitalStudentCard[Digital Student Card & Mercant]
         DigitalStudentCard --> PhysicalStudentCard[Physical Student Card]
