@@ -38,10 +38,13 @@ top = false
         phone[<a href="/zh/docs/phone/circ-sim/">手机号码</a>]
         Refresh[更新居留许可]
         personal --> SFI[Swedish course For Immigrants]
+        personal --> update[<a href="/zh/docs/id/update-pn-in-chalm/">在 Chalmers 的各系统中更新人口号信息</a>]
         DigitalStudentCard -.-> bicycle[<a href="/zh/docs/transport/shared-bicycle/">共享单车</a>]
         course[注册课程和考试]
         timeEdit[查看课程时间]
         doors[如何打开各个设施的大门]
+        pays[无需人口号或 BankID 的支付方式]
+        delivery[快递服务]
 </pre>
 
 <script type="module">
