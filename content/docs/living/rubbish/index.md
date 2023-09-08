@@ -16,7 +16,7 @@ top = false
 
 Rubbish needs to be sorted before throwing away.
 
-There are four types of rubbish:
+There are six types of rubbish:
 
 ## Food waste
 

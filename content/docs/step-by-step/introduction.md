@@ -27,6 +27,7 @@ top = false
         travel -.-> personal
         personal[<a href="/docs/id/personal-number">Personal Number</a>] --> id[<a href="/docs/id/id-card">ID Card</a>]
         id --> bank[Open Bank Account]
+        personal --> update[<a href="/docs/id/update-pn-in-chalm/">Update personal number information in Chalmers</a>]
         travel -.-> Shopping
         DigitalStudentCard[Digital Student Card & Mercant]
         DigitalStudentCard --> PhysicalStudentCard[Physical Student Card]
@@ -38,6 +39,8 @@ top = false
         course[Register for courses and exams]
         timeEdit[Check time of your classes]
         doors[enter the facilities]
+        pays[Payment without personal number or BankID]
+        delivery[Delivery service]
 </pre>
 
 <script type="module">
