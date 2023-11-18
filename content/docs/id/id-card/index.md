@@ -14,6 +14,8 @@ toc = true
 top = false
 +++
 
+## Make an appointment
+
 Make an appointment [here](https://ssc.nemoq.se/Booking/Booking/Index/SSC).
 
 ## Pay the fee
@@ -29,14 +31,25 @@ If you want to avoid the (potential) high bank transfer fee, you may:
 - Ask a friend who already has a bank account or/and swish to pay for you
 - Use [TransferWise](https://transferwise.com/)[^1] to pay the fee
 
-## Go to the Skatteverket for getting the ID card
+## Go to the Skatteverket for taking a photo
+
+When your appointment is due, go to the Skatteverket for taking a photo.
 
 You need to bring:
 
-- Your passport
 - Your residence permit card
 - The payment receipt, or any proof of payment
 
-Register yourself at the desk for arrival registration at the entrance by scanning the QR code they sent you in an email, then wait for your number to be called to the counter.
+After taking the photo, you will receive a receipt, keep it safe, you will need it when you go to the Skatteverket for getting the ID card.
+
+## Go to the Skatteverket for getting the ID card
+
+After the ID card is ready, you will receive a SMS message to go to the Skatteverket for getting the ID card.
+
+Getting the ID card does not require an appointment.
+
+You need to bring:
+
+- The receipt you received when taking the photo.
 
 [^1]: It's said that Revolut could be used to pay the fee, but it seems that it's not working now. If someone has found a way, please let me know.
